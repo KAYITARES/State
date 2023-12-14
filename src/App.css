@@ -38,3 +38,8 @@ button {
   border: none;
   background-color: #7950f2;
 }
+.btn-cont {
+  width: 100%;
+  text-align: right;
+  margin: 5px 10px 0 0;
+}
